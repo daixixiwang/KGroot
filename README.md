@@ -15,14 +15,17 @@ step4: DataSetGraphSimGenerator.py split train & test dataset
 
 3 Method
 
-#--------------- fault KG constuction-----
+#-----------fault KG constuction----------
+
 KBConstruction.py  
 
-#---------------KGroot------------------------
+#---------------KGroot--------------------
+
 graph_sim_dej_X.py
 
 
 #-------KGroot without GCN--------------
+
 graph_sim_no_gcn_dej_X.py
 
 
