@@ -14,6 +14,7 @@ step4: DataSetGraphSimGenerator.py split train & test dataset
  
 
 3 Method
+
 #--------------- fault KG constuction-----
 KBConstruction.py  
 
