@@ -21,7 +21,7 @@ KBConstruction.py
 
 #---------------KGroot--------------------
 
-graph_sim_dej_X.py #X represents the normalization of Dataset C/Dataset D.
+graph_sim_dej_X.py #X represents the normalization of Dataset A/Dataset B.
 
 
 #-------KGroot without GCN--------------
