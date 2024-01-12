@@ -20,9 +20,8 @@ step4: DataSetGraphSimGenerator.py split train & test dataset
 KBConstruction.py  
 
 #---------------KGroot--------------------
-#X represents the normalization of Dataset C/Dataset D.
 
-graph_sim_dej_X.py
+graph_sim_dej_X.py #X represents the normalization of Dataset C/Dataset D.
 
 
 #-------KGroot without GCN--------------
